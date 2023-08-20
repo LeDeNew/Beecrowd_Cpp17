@@ -18,10 +18,7 @@ int main()
       }
 
       for(int i = 0; i<max; i++){
-         if(d[i]>0 && d[i]<=e[i]){
-            p += d[i];
-         }
-         else if(e[i]>0 && e[i]<=d[i]) p += e[i];
+         p += min(d[i], e[i]);
       }
 
       cout << p <<endl;
