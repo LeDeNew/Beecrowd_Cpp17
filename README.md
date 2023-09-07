@@ -1,4 +1,4 @@
 # Solutions
-Beecrowd C++ 17 solutions
+Soluções de exercícios do Beecrowd em C++
 
-Made 4fun or in class
+Feito para acompanhar minha evolução ao fazer códigos
