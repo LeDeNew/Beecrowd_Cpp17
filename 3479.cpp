@@ -6,7 +6,7 @@ using namespace std;
 // usando tabela ASCII
 int main(){
     string data, signo;
-    char strDia[2], strMes[2];
+    char strDia[2];
     int dia, mes = 0;
     cin >> data;
 
