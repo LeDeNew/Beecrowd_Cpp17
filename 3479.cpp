@@ -3,7 +3,6 @@
 
 using namespace std;
 
-// usando tabela ASCII
 int main(){
     string data, signo;
     char strDia[2];
